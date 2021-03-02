@@ -1,4 +1,4 @@
-### My name is Artem and I'm from Ukraine 👋
+### My name is Artem Zymovets and I'm from Ukraine 👋
 
 <!--
 **artemdev/artemdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
