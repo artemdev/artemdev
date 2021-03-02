@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 [![Artemzdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=artemdev&show_icons=true&theme=dracula)](https://github.com/artemzdev)
 
-- 🌱 I’m currently learning at GoIT school
-- 📫 Reach me: artem.zimvoets@gmail.com
+ 💬 I’m currently studying at GoIT school
+ 📫 Reach me: artem.zimvoets@gmail.com
 
