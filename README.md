@@ -10,9 +10,9 @@
 - 📫 How to reach me: 
 
   [![artemdev telegram](https://img.shields.io/badge/Telegram-%40theneonwhale-blue?style=plastic&logo=telegram&link=https://t.me/artemzimovets)](https://t.me/artemzimovets)
-  [![artemdev e-mail](https://img.shields.io/badge/Gmail-a.kylymnyk%40gmail.com-red?style=plastic&logo=gmail&link=mailto:artem.zimovets@gmail.com)](mailto:artem.zimovets@gmail.com)
-  [![artemdev github](https://img.shields.io/badge/GitHub-theneonwhale-black?style=plastic&logo=github&link=https://github.com/artemdev)](https://github.com/artemzimovets)
-  [![artemdev linkedin](https://img.shields.io/badge/LinkedIn-Andrii%20Kylymnyk-darkblue?style=plastic&logo=linkedin&link=https://www.linkedin.com/in/artemdev)](https://www.linkedin.com/in/artem-zymovets)
+  [![artemdev e-mail](https://img.shields.io/badge/Gmail-artem.zimovetsgmail.com-red?style=plastic&logo=gmail&link=mailto:artem.zimovets@gmail.com)](mailto:artem.zimovets@gmail.com)
+  [![artemdev github](https://img.shields.io/badge/GitHub-artemdev?style=plastic&logo=github&link=https://github.com/artemdev)](https://github.com/artemzimovets)
+  [![artemdev linkedin](https://img.shields.io/badge/LinkedIn-Artem%20Zymovets?style=plastic&logo=linkedin&link=https://www.linkedin.com/in/artem-zymovets)](https://www.linkedin.com/in/artem-zymovets)
   
 
 ### My stack and tools:
