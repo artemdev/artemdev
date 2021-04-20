@@ -9,12 +9,11 @@
   
 - 📫 How to reach me: 
 
-  [![theneonwhale telegram](https://img.shields.io/badge/Telegram-%40theneonwhale-blue?style=plastic&logo=telegram&link=https://t.me/theneonwhale)](https://t.me/theneonwhale)
-  [![theneonwhale e-mail](https://img.shields.io/badge/Gmail-a.kylymnyk%40gmail.com-red?style=plastic&logo=gmail&link=mailto:a.kylymnyk@gmail.com)](mailto:a.kylymnyk@gmail.com)
-  [![theneonwhale github](https://img.shields.io/badge/GitHub-theneonwhale-black?style=plastic&logo=github&link=https://github.com/theneonwhale)](https://github.com/theneonwhale)
-  [![theneonwhale linkedin](https://img.shields.io/badge/LinkedIn-Andrii%20Kylymnyk-darkblue?style=plastic&logo=linkedin&link=https://www.linkedin.com/in/andrii-kylymnyk)](https://www.linkedin.com/in/andrii-kylymnyk)
+  [![theneonwhale telegram](https://img.shields.io/badge/Telegram-%40theneonwhale-blue?style=plastic&logo=telegram&link=https://t.me/artemzimovets)](https://t.me/theneonwhale)
+  [![theneonwhale e-mail](https://img.shields.io/badge/Gmail-a.kylymnyk%40gmail.com-red?style=plastic&logo=gmail&link=mailto:artem.zimovets@gmail.com)](mailto:a.kylymnyk@gmail.com)
+  [![theneonwhale github](https://img.shields.io/badge/GitHub-theneonwhale-black?style=plastic&logo=github&link=https://github.com/artemdev)](https://github.com/theneonwhale)
+  [![theneonwhale linkedin](https://img.shields.io/badge/LinkedIn-Andrii%20Kylymnyk-darkblue?style=plastic&logo=linkedin&link=https://www.linkedin.com/in/artemdev)](https://www.linkedin.com/in/artem-zymovets)
   
-- 🗃️ My resume is [here](https://andrii-kylymnyk.netlify.app/).
 
 ### My stack and tools:
 
@@ -30,12 +29,12 @@
 ---
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=theneonwhale&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theneonwhale&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Codewars](https://www.codewars.com/users/theneonwhale/badges/micro)
+![Codewars](https://www.codewars.com/users/artemdev/badges/micro)
 
-![Profile views](https://gpvc.arturio.dev/theneonwhale)
+![Profile views](https://gpvc.arturio.dev/artemdev)
 
 <!--
-**theneonwhale/theneonwhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**artemdev/artemdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
