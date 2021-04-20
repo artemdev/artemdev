@@ -9,10 +9,10 @@
   
 - 📫 How to reach me: 
 
-  [![theneonwhale telegram](https://img.shields.io/badge/Telegram-%40theneonwhale-blue?style=plastic&logo=telegram&link=https://t.me/artemzimovets)](https://t.me/theneonwhale)
-  [![theneonwhale e-mail](https://img.shields.io/badge/Gmail-a.kylymnyk%40gmail.com-red?style=plastic&logo=gmail&link=mailto:artem.zimovets@gmail.com)](mailto:a.kylymnyk@gmail.com)
-  [![theneonwhale github](https://img.shields.io/badge/GitHub-theneonwhale-black?style=plastic&logo=github&link=https://github.com/artemdev)](https://github.com/theneonwhale)
-  [![theneonwhale linkedin](https://img.shields.io/badge/LinkedIn-Andrii%20Kylymnyk-darkblue?style=plastic&logo=linkedin&link=https://www.linkedin.com/in/artemdev)](https://www.linkedin.com/in/artem-zymovets)
+  [![artemdev telegram](https://img.shields.io/badge/Telegram-%40theneonwhale-blue?style=plastic&logo=telegram&link=https://t.me/artemzimovets)](https://t.me/theneonwhale)
+  [![artemdev e-mail](https://img.shields.io/badge/Gmail-a.kylymnyk%40gmail.com-red?style=plastic&logo=gmail&link=mailto:artem.zimovets@gmail.com)](mailto:a.kylymnyk@gmail.com)
+  [![artemdev github](https://img.shields.io/badge/GitHub-theneonwhale-black?style=plastic&logo=github&link=https://github.com/artemdev)](https://github.com/theneonwhale)
+  [![artemdev linkedin](https://img.shields.io/badge/LinkedIn-Andrii%20Kylymnyk-darkblue?style=plastic&logo=linkedin&link=https://www.linkedin.com/in/artemdev)](https://www.linkedin.com/in/artem-zymovets)
   
 
 ### My stack and tools:
