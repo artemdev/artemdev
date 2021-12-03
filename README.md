@@ -1,7 +1,6 @@
 ### Hi there 🦄
 
-- 🚀 I want to be involved in something great and cool. 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently using 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=plastic&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-green?style=plastic&logo=node.js)
   ![React](https://img.shields.io/badge/-React-blue?style=plastic&logo=react)
