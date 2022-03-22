@@ -1,6 +1,6 @@
 ### Hi there 🦄
 
-- 🌱 I’m currently using 
+- 🌱 My tech stack is
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=plastic&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-green?style=plastic&logo=node.js)
   ![React](https://img.shields.io/badge/-React-blue?style=plastic&logo=react)
