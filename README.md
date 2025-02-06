@@ -1,48 +1,30 @@
-### Hi there 🦄
+<h2 align="center">Software Engeneer</h2>
+<p align="center">
+  <samp>
+Passionate about building scalable, high-performance web applications with modern technologies. I specialize in React, JavaScript, TypeScript, Node.js and GraphQL, focusing on clean architecture, performance optimization, and user experience.
+1 enjoy solving complex frontend challenges, improving UI/UX, and exploring full-stack development with Node.js and cloud infrastructure. Currently working on a question-answering engine using React, Node.js, Pinecone, LangChain, and Docker.
+Always learning, experimenting, and sharing knowledge through open-source projects and technical writing.
+  </samp>
+</p>
 
-- 🌱 My tech stack
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=plastic&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-green?style=plastic&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-blue?style=plastic&logo=react)
+<hr>
 
-  
-- 📫 How to reach me: 
+<h2 align="center"> 🔭 Tools of Trade</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
+</p>
+<p align="center">Docker, GraphQL, Langchain, HTML, CSS, Bootstrap, FastAPI, Cloud services.</p>
 
-  [![artemdev telegram](https://img.shields.io/badge/Telegram-%40artemzimovets?style=plastic&logo=telegram&link=https://t.me/artemzimovets)](https://t.me/artemzimovets)
-  [![artemdev e-mail](https://img.shields.io/badge/Gmail-artem.zimovetsgmail.com-red?style=plastic&logo=gmail&link=mailto:artem.zimovets@gmail.com)](mailto:artem.zimovets@gmail.com)
-  [![artemdev github](https://img.shields.io/badge/GitHub-artemdev?style=plastic&logo=github&link=https://github.com/artemdev)](https://github.com/artemdev)
-  [![artemdev linkedin](https://img.shields.io/badge/LinkedIn-Artem%20Zymovets?style=plastic&logo=linkedin&link=https://www.linkedin.com/in/artem-zymovets)](https://www.linkedin.com/in/artem-zymovets)
-  
+<hr>
 
-### My stack and tools:
+<h2 align="center">💬 My Blog Articles</h2>
+<p align="center" align='right'>
+<!--   <a target="_blank"href="https://dev.to/ileriayo"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp; -->
+  <a target="_blank"href="https://medium.com/@artemzymovets"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+</p>
 
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> 
-<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> 
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
-<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> 
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
+<hr>
 
----
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=artemdev&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artemdev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-![Codewars](https://www.codewars.com/users/artemdev/badges/micro)
-
-![Profile views](https://gpvc.arturio.dev/artemdev)
-
-<!--
-**artemdev/artemdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
