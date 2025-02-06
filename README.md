@@ -2,7 +2,8 @@
 <p align="center">
   <samp>
 Passionate about building scalable, high-performance web applications with modern technologies. I specialize in React, JavaScript, TypeScript, Node.js, and GraphQL, focusing on clean architecture, performance optimization, and user experience.
-I enjoy solving complex frontend challenges, improving UI/UX, and exploring full-stack development with Node.js and cloud infrastructure. Currently working on a question-answering engine using React, Node.js, Pinecone, LangChain, and Docker.
+I enjoy solving complex frontend challenges, improving UI/UX, and exploring full-stack development with Node.js, Python, and cloud infrastructure.
+Currently working on a question-answering engine using React, Node.js, Pinecone, LangChain, and Docker.
 Always learning, experimenting, and sharing knowledge through open-source projects and technical writing.
   </samp>
 </p>
