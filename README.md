@@ -1,7 +1,7 @@
 <h2 align="center">Software Engineer</h2>
 <p align="center">
   <samp>
-Passionate about building scalable, high-performance web applications with modern technologies. I specialize in React, JavaScript, TypeScript, Node.js, and GraphQL, focusing on clean architecture, performance optimization, and user experience.
+Passionate about building scalable, high-performance web applications with modern technologies. I specialize in React, JavaScript, TypeScript, Node.js, Python and GraphQL, focusing on clean architecture, performance optimization, and user experience.
 I enjoy solving complex frontend challenges, improving UI/UX, and exploring full-stack development with Node.js, Python, and cloud infrastructure.
   </samp>
 </p>
